@@ -25,7 +25,7 @@ Once the user completes all questions, the application displays the final score 
 ReactJS: Frontend framework for building the user interface.
 State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
-Screenshot 2025-01-06 at 12 35 45 PM
+
 📋 How to Run the Project
 Clone the repository:
 git clone https://github.com/your-username/quizapp.git
